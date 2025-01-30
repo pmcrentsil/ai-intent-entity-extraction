@@ -1,10 +1,10 @@
-# Charter AI Intent Extraction
+# AI Intent Extraction
 
 ## Overview
 
 This repository provides a **Proof of Concept (PoC)** for real-time **intent and entity extraction** from call transcripts using **Azure OpenAI (GPT-4o-mini)**. It simulates **multi-turn conversations**, dynamically extracts **predefined intents**, and outputs structured **JSON** results.
 
-The PoC demonstrates how Charter can leverage **LLMs** to **dynamically identify intents** (set by the user) and **extract entities** (defined by the LLM). This allows for flexible intent recognition without the need for **predefined entity rules**.
+The PoC demonstrates how a customer can leverage **LLMs** to **dynamically identify intents** (set by the user) and **extract entities** (defined by the LLM). This allows for flexible intent recognition without the need for **predefined entity rules**.
 
 ---
 
